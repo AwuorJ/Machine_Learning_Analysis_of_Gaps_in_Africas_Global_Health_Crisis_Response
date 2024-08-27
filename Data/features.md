@@ -4,7 +4,7 @@ This dataset has 36 columns
 
 1. **respondent_id** - A unique and random identifier.
 2. **h1n1_concern** - Level of concern about the H1N1 flu.
-    **0** = Not at all concerned; **1** = Not very concerned; **2** = Somewhat concerned; **3** = Very concerned.
+        **0** = Not at all concerned; **1** = Not very concerned; **2** = Somewhat concerned; **3** = Very concerned.
 
 3. **h1n1_knowledge** - Level of knowledge about H1N1 flu.
 
