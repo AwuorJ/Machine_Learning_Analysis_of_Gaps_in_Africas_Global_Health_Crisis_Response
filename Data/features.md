@@ -4,11 +4,12 @@ This dataset has 36 columns
 
 1. **respondent_id** - A unique and random identifier.
 2. **h1n1_concern** - Level of concern about the H1N1 flu.
-        **0** = Not at all concerned; **1** = Not very concerned; **2** = Somewhat concerned; **3** = Very concerned.
+    
+    ***0** = Not at all concerned; **1** = Not very concerned; **2** = Somewhat concerned; **3** = Very concerned.*
 
 3. **h1n1_knowledge** - Level of knowledge about H1N1 flu.
 
-    **0** = No knowledge; **1** = A little knowledge; **2** = A lot of knowledge.
+    ***0** = No knowledge; **1** = A little knowledge; **2** = A lot of knowledge.*
 
 4. **behavioral_antiviral_meds** - Has taken antiviral medications. (binary)
 5. **behavioral_avoidance** - Has avoided close contact with others with flu-like symptoms. (binary)
@@ -25,27 +26,27 @@ This dataset has 36 columns
 16. **health_insurance** - Has health insurance. (binary)
 17. **opinion_h1n1_vacc_effective** - Respondent's opinion about H1N1 vaccine effectiveness.
 
-    **1** = Not at all effective; **2** = Not very effective; **3** = Don't know; **4** = Somewhat effective; **5** = Very effective.
+    ***1** = Not at all effective; **2** = Not very effective; **3** = Don't know; **4** = Somewhat effective; **5** = Very effective.*
 
 18. **opinion_h1n1_risk** - Respondent's opinion about risk of getting sick with H1N1 flu without vaccine.
 
-    **1** = Very Low; **2** = Somewhat low; **3** = Don't know; **4** = Somewhat high; **5** = Very high.
+    ***1** = Very Low; **2** = Somewhat low; **3** = Don't know; **4** = Somewhat high; **5** = Very high.*
 
 19. **opinion_h1n1_sick_from_vacc** - Respondent's worry of getting sick from taking H1N1 vaccine.
 
-    **1** = Not at all worried; **2** = Not very worried; **3** = Don't know; **4** = Somewhat worried; **5** = Very worried.
+    ***1** = Not at all worried; **2** = Not very worried; **3** = Don't know; **4** = Somewhat worried; **5** = Very worried.*
 
 20. **opinion_seas_vacc_effective** - Respondent's opinion about seasonal flu vaccine effectiveness.
 
-    **1** = Not at all effective; **2** = Not very effective; **3** = Don't know; **4** = Somewhat effective; **5** = Very effective.
+    ***1** = Not at all effective; **2** = Not very effective; **3** = Don't know; **4** = Somewhat effective; **5** = Very effective.*
 
 21. **opinion_seas_risk** - Respondent's opinion about risk of getting sick with seasonal flu without vaccine.
 
-    **1** = Very Low; **2** = Somewhat low; **3** = Don't know; **4** = Somewhat high; **5** = Very high.
+    ***1** = Very Low; **2** = Somewhat low; **3** = Don't know; **4** = Somewhat high; **5** = Very high.*
 
 22. **opinion_seas_sick_from_vacc** - Respondent's worry of getting sick from taking seasonal flu vaccine.
 
-    **1** = Not at all worried; **2** = Not very worried; **3** = Don't know; **4** = Somewhat worried; **5** = Very worried.
+    ***1** = Not at all worried; **2** = Not very worried; **3** = Don't know; **4** = Somewhat worried; **5** = Very worried.*
 
 23. **age_group** - Age group of respondent.
 24. **education** - Self-reported education level.
