@@ -12,7 +12,8 @@ This project aims to predict the probability frequencies of H1N1 and seasonal fl
 
     2. Predict the probabilities of receiving seasonal flu vaccine.
 
-Metodology:
+**Methodology:**
+
     1. Logistic Regression: To predict the h1n1 vaccine.
 
     2. Decision Tree: To predict the seasonal_vaccine to accomodate the bimodal distribution nature of its data.
