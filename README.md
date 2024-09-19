@@ -1,23 +1,26 @@
-**Machine Learning Predictions of H1N1 and Seasonal Vaccination Uptake**
+# A Classification Analysis of Existing Global Health Crisis Intervention Gaps in Africa
 
-Back in June 2009, the World Health Organization (WHO) declared influenza a global pandemic. This was just was two months after its first outbreak in North America. At the time of its pandemic status declaration, a total of 74 coutries had already reported their first case of the A(H1N1) virus infection. The virus caused respiratory complications leading to about 284, 500 deaths globally, which was an estimate of about 0.007% of the world's population. As a prevention mechanism to counter further infections, the H1N1 and seasonal flu vaccines were developed and availed to the public in October 2009.
+### Introduction
 
-**Problem Statement:**
+The global health sector has already registered a total of seven pandemics and epidemics, yet the world is merely in the first quarter of the 21st century. The HIV/AIDS epidemic has been ongoing since its first outbreak in the 1980s, while COVID-19 and Monkeypox are the most recent global pandemics. Of the seven, H1N1 influenza had a considerably higher intervention success rate. However, even with its relatively high response success rate compared to the others, its effectiveness in Africa was notably lower, similar to every other global health intervention. So, how can Africa break free from over-reliance on the international health sector and adequately prepare independently for future global health crises?
 
-This project aims to predict the probability frequencies of H1N1 and seasonal flu vaccine administration, using data collected in the National 2009 H1N1 Flu Survey. These predictions will be crucial for guiding the health sector on future vaccination startegies to implement in the face of pandemic and/or epidemic outbreaks.
+This project aims to build a predictive model of the H1N1 influenza vaccination uptake with the objective of identifying gaps in the patterns of both H1N1 and Seasonal vaccines uptake predictions.
 
-**Objectives:**
+### Problem Statement
 
-    1. Predict the probabilities of receiving H1N1 flu vaccine.
+**Background:** 
+Efforts by the global health sector to ensure the world’s immunity against COVID-19 through vaccination recorded a global average of 65.1% complete vaccination uptake. Africa, on the other hand, registered a below-average vaccination coverage of 51.8% vaccination coverage. While this was an encouraging level of uptake, it was not fully effective. Therefore, there is an urgent need for Africa to take the initiative to study past pandemic vaccination patterns, identify the gaps that limited vaccination access, and plan for future global health interventions within the continent.
 
-    2. Predict the probabilities of receiving seasonal flu vaccine.
+### Objectives:
 
-**Methodology:**
+1. Analyze the probability distributions of the test set predictions.
 
-    1. Logistic Regression: To predict the h1n1 vaccine.
+2. Predict the probabilities of receiving H1N1 and Seasonal Vaccines.
 
-    2. Decision Tree: To predict the seasonal_vaccine to accomodate the bimodal distribution nature of its data.
+3. Examine the gaps in vaccination predictions.
 
-**Findings:**
+### Methodology
 
-On average, the predicted probability of receiving the H1N1 vaccine is 0.1932, while the probability of receiving the seasonal flu vaccine is 0.47704.
+1. Employ **Logistic Regression** to predict the H1N1 vaccine administration.
+
+2. Use **Decision Tree** to predict the seasonal vaccine uptake in order to accommodate its bimodal distribution.
