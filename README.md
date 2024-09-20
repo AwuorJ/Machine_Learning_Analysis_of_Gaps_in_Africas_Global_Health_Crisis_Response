@@ -13,14 +13,20 @@ Efforts by the global health sector to ensure global immunity against COVID-19 t
 
 ### Objectives:
 
-1. Analyze the probability distributions of the test set predictions.
+**1. Build a regression model to predict H1N1 and seasonal flu vaccination uptake.**
 
-2. Predict the probabilities of receiving H1N1 and Seasonal Vaccines.
+*Evaluate the model’s performance to identify areas for improvement and ensure it meets a desired reliability standard.*
 
-3. Examine the gaps in vaccination predictions.
+**2. Analyze the probability distributions of the train-test set predictions.**
+
+*Investigate past H1N1 and Seasonal flu vaccination patterns to identify trends, gaps in vaccination coverage and potential predictors for future models.*
+
+**3. Predict the future probabilities of receiving H1N1 and seasonal flu Vaccines.**
+
+*Use these predicted probabilities to assess future vaccination patterns and uncover the potential gaps in vaccination coverage.*
 
 ### Methodology
 
 1. Employ **Logistic Regression** to predict the H1N1 vaccine administration.
 
-2. Use **Decision Tree** to predict the seasonal vaccine uptake in order to accommodate its bimodal distribution.
+2. Use **Decision Tree** to predict the seasonal flu vaccine uptake in order to accommodate its bimodal distribution.
