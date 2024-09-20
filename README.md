@@ -2,14 +2,14 @@
 
 ### Introduction
 
-The global health sector has already registered a total of seven pandemics and epidemics, yet the world is merely in the first quarter of the 21st century. The HIV/AIDS epidemic has been ongoing since its first outbreak in the 1980s, while COVID-19 and Monkeypox are the most recent global pandemics. Of the seven, H1N1 influenza had a considerably higher intervention success rate. However, even with its relatively high response success rate compared to the others, its effectiveness in Africa was notably lower, similar to every other global health intervention. So, how can Africa break free from over-reliance on the international health sector and adequately prepare independently for future global health crises?
+The global health sector has already recorded a total of seven pandemics and epidemics, yet the world is only in the first quarter of the 21st century. The HIV/AIDS epidemic has been ongoing since its first outbreak in the 1980s, while COVID-19 and Monkeypox are the most recent global pandemics. Of the seven, H1N1 influenza had a considerably higher intervention success rate. However, even with its relatively high response success rate compared to the others, its effectiveness in Africa was notably lower, similar to every other global health intervention. So, how can Africa break free from over-reliance on the international health sector, and adequately prepare independently for future global health crises?
 
-This project aims to build a predictive model of the H1N1 influenza vaccination uptake with the objective of identifying gaps in the patterns of both H1N1 and Seasonal vaccines uptake predictions.
+This project aims to build a predictive model of the H1N1 influenza vaccination uptake with the objective of identifying gaps in the patterns of both H1N1 and Seasonal vaccination predictions.
 
 ### Problem Statement
 
 **Background:** 
-Efforts by the global health sector to ensure the world’s immunity against COVID-19 through vaccination recorded a global average of 65.1% complete vaccination uptake. In contrast, Africa registered a discouragingly low vaccination coverage of 32.1%. Therefore, there is an urgent need for Africa to take the initiative to study past pandemic vaccination patterns, identify the gaps that limited vaccination access, and plan for future global health interventions within the continent.
+Efforts by the global health sector to ensure global immunity against COVID-19 through vaccination achieved a worldwide average of 65.1% complete vaccination uptake. In contrast, Africa registered a discouragingly low vaccination coverage of 32.1%. Therefore, there is an urgent need for Africa to take the initiative to study past pandemic vaccination patterns, identify gaps that limit vaccination access, and plan for future global health interventions within the continent.
 
 ### Objectives:
 
