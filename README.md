@@ -1,4 +1,4 @@
-# A Classification Analysis of Existing Global Health Crisis Intervention Gaps in Africa
+# A Machine Learning Analysis of Gaps in Africa's Global Health Crisis Response
 
 ### Introduction
 
