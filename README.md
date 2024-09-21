@@ -44,7 +44,7 @@ The distribution for the H1N1 vaccine is predicted to be more positively skewed,
 
 **Recommendations**
 
-To enhance Africa’s preparedness for future health crises, the AU’s Africa CDC should prioritize the following solutions:
+To enhance Africa’s preparedness for future health crises, the AU’s Africa CDC should take immediate action on the following solutions:
 
 * *Strengthen vaccine education and awareness.*
 
