@@ -1,5 +1,7 @@
 # A Machine Learning Analysis of Gaps in Africa's Global Health Crisis Response
 
+![H1N1 and Seasonal Vaccination Uptake Presentation](https://github.com/user-attachments/assets/00156f59-69c8-4abf-94af-9cb87e842d6a)
+
 ### Introduction
 
 The global health sector has already recorded a total of seven pandemics and epidemics, yet the world is only in the first quarter of the 21st century. The HIV/AIDS epidemic has been ongoing since its first outbreak in the 1980s, while COVID-19 and Monkeypox are the most recent global pandemics. Of the seven, H1N1 influenza had a considerably higher intervention success rate. However, even with its relatively high response success rate compared to the others, its effectiveness in Africa was notably lower, similar to every other global health intervention. So, how can Africa break free from over-reliance on the international health sector, and adequately prepare independently for future global health crises?
